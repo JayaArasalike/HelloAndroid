@@ -1,8 +1,8 @@
 # HelloAndroid
 This project is done as part Android Basics Course from Udacity.
-** This is a single screen app in Android Studio that displays information about Udacity, along with a photo. **
+**This is a single screen app in Android Studio that displays information about Udacity, along with a photo.**
 
-** Requirements **
+**Requirements**
  *Create an XML document
 
 *To complete this project, you will need to create an XML document in Android Studio.
@@ -28,4 +28,4 @@ This project is done as part Android Basics Course from Udacity.
     IMAGE: You can use any image you like that you feel represents Udacity or what Udacity does. Feel free to be creative!
     
 ** Output **
-![output](images/udacityInfo.png)
+![Udacity Information Page](images/udacityInfo.png)
